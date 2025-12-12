@@ -1,0 +1,3 @@
+Panadol,50,12000.0
+Bandages,120,14000.0
+Operation Kits,25,60000.0
